@@ -41,7 +41,6 @@ VERSION:3.0
 FN:MUSTAFA ALBAKKOUR
 TITLE:Sales Manager
 ORG:RISE Properties
-TEL;TYPE=WORK,VOICE:+971524133479
 TEL;TYPE=WORK,VOICE:+971555025287
 TEL;TYPE=WORK,VOICE:+97145665109
 EMAIL:Mustafa@riseproperties.ae
@@ -66,4 +65,5 @@ document.querySelector('.save-contact-button').addEventListener('click', functio
   e.preventDefault();
   downloadVCard();
 });
+
 
